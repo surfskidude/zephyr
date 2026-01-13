@@ -35,7 +35,7 @@ Reference
 
 .. target-notes::
 
-.. _Real Time Logic:
+.. _Xedge for Zephyr GitHub Repository:
     https://github.com/RealTimeLogic/Xedge4Zephyr
 
 .. _Xedge Introduction:
