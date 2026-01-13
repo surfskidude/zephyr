@@ -24,7 +24,7 @@ Xedge can be used alongside Zephyr by integrating it as an external
 component in your application and building it for your target board.
 Because Xedge is developed and documented outside of Zephyr, the most
 up-to-date build instructions, supported features, and examples are
-maintained on the Xedge website.
+maintained externally by Real Time Logic.
 
 Reference
 *********
