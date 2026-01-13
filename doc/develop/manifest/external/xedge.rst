@@ -29,14 +29,14 @@ maintained on the Xedge website.
 Reference
 *********
 
-- `Real Time Logic`_
+- `Xedge for Zephyr GitHub Repository`_
 - `Xedge Introduction`_
 - `Barracuda App Server`_
 
 .. target-notes::
 
 .. _Real Time Logic:
-    https://realtimelogic.com
+    https://github.com/RealTimeLogic/Xedge4Zephyr
 
 .. _Xedge Introduction:
     https://realtimelogic.com/products/xedge/
